@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eisforeugene/oop-rpg/issues"
   },
-  "homepage": "https://github.com/eisforeugene/oop-rpg#readme"
+  "homepage": "https://github.com/eisforeugene/oop-rpg#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
